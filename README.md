@@ -6,7 +6,7 @@
 - 将镜像推送到阿里云 ACR
 - 支持通过 Docker Compose 文件自动解析和同步镜像
 
-## 配置 GitHub Secrets1
+## 配置 GitHub Secrets
 
 在 GitHub 仓库设置中，添加以下 secrets：
 
